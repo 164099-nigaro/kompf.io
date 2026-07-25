@@ -1,1 +1,3 @@
-alert("ยินดีต้อนรับสู่ Portfolio ของ มาตุภูมิ สิมมะลี");
+console.log("Portfolio Loaded");
+
+alert("ยินดีต้อนรับสู่เว็บไซต์ Portfolio");
